@@ -22,3 +22,6 @@ entity NBitMultiplier is
     );
 end entity;
 ```
+
+## Simulation Waveform
+![alt text](https://github.com/bitbytebitco/NBitMultiplier/blob/master/NBitMultiplier_Simulation_Wave.png?raw=true)
