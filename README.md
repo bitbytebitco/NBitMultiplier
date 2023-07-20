@@ -1,5 +1,5 @@
 # NBitMultiplier
-N-Bit hardware multiplier written in VHDL
+N-Bit hardware integer multiplier (unsigned/signed) written in VHDL
 
 ```
 entity NBitMultiplier is
